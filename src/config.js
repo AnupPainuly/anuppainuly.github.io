@@ -16,7 +16,7 @@ module.exports = {
     },
     {
       name: 'LeetCode',
-      url: 'https://leetcode.com/aanoop669/',
+      url: 'https://leetcode.com/anuppainuly/',
     },
     {
       name: 'HackerRank',
