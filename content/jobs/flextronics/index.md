@@ -11,5 +11,8 @@ url: 'https://www.flex.com/'
 - Lead two kaizen workshops of process improvement which resulted in 20% and 75% process time improvement respectively along with 2 FTE savings
 - Five why analysis, Pareto, PDCA, Value stream mapping and Microsoft Excel VBA was employed in these projects
 - Productivity Metrics analysis & improvement. Lead implementation of solutions that drove efficiency through standardization, elimination, and simplification.
+
+**Certifications:**
+
 - [<u>Lean Green Belt Certification</u>](https://my-portfolio-hosted-content.s3.ap-south-1.amazonaws.com/certifications/Lean+Green+Belt.pdf)
 - [<u>Internal Auditor ISO 9001:2015</u>](https://my-portfolio-hosted-content.s3.ap-south-1.amazonaws.com/certifications/Internal+Auditor+ISO+9001-20015.pdf)
