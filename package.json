@@ -1,11 +1,11 @@
 {
   "name": "v4",
-  "description": "Personal Website",
+  "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Anup Painuly <aanoop669@gmail.com>",
+  "author": "Anup <aanoop669@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AnupPainuly/anuppainuly.github.io"
+    "url": "https://github.com/anuppainuly/anuppainuly.github.io"
   },
   "keywords": [
     "gatsby"
@@ -51,9 +51,9 @@
     "gatsby-source-filesystem": "^3.4.0",
     "gatsby-transformer-remark": "^4.1.0",
     "gatsby-transformer-sharp": "^3.4.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.19",
     "prismjs": "^1.27.0",
-    "prop-types": "^15.8.1",
+    "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-helmet": "^6.1.0",
@@ -73,7 +73,6 @@
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.23.2",
     "gatsby-remark-code-titles": "^1.1.0",
-    "gh-pages": "^6.0.0",
     "husky": "^6.0.0",
     "lint-staged": "^10.1.2",
     "prettier": "^2.2.1"
