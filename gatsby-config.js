@@ -5,7 +5,7 @@ module.exports = {
     title: 'Anup Painuly',
     description:
       '',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://aanoop669@gmail.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Anup Painuly',
+        short_name: 'Anup Painuly',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
